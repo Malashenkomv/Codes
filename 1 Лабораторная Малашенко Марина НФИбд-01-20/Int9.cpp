@@ -5,9 +5,9 @@ using namespace std;
 
 int main()
 {
-    int a, b;
-    cin >> a >> b;
-    cout << a / b;
+    int a;
+    cin >> a;
+    cout << a / 100;
 
     return 0;
 }
