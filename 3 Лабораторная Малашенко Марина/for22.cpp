@@ -15,7 +15,6 @@ int main()
         f *= j; 
     } 
     sum += pow (X, N) / f;
-    cout << pow (X, N) / f << endl;
     f = 1;
     M--;
     }
