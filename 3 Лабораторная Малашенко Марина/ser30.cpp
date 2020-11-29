@@ -22,7 +22,7 @@ int main()
         sum = 0;
         K --;
         N = p;
-    } while (K >= 0);
+    } while (K > 0);
     
 
     return 0;

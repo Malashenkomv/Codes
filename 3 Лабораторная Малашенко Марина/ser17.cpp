@@ -16,7 +16,7 @@ int main()
         cin >> a;
         cout << a << " ";
         N--;
-        } while (N + 1 > 0);
+        } while (N + 1 > 1);
 
     return 0;
 }
